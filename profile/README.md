@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aidatatools (Founder: <a href="https://chuangtc.com">Jason Chuang</a>)</h1>
+<h1 align="center">Hi 👋, I'm aidatatools (Founder: <a href="https://chuangtc.com">Jason TC Chuang</a>)[whose goal is to become top Pragmatic AI Architect]</h1>
 <h3 align="center">A group of passionate developers chasing hot trends</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidatatools&label=Profile%20views&color=0e75b6&style=flat" alt="aidatatools" /> </p>
